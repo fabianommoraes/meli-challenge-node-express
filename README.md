@@ -1,6 +1,6 @@
 # meli-challenge-node-express
 
-Este é o código front-end do Desafio Técnico Mercado Libre
+Este é o código back-end do Desafio Técnico Mercado Libre
 
 Para instalar o projeto:
 
